@@ -1,0 +1,39 @@
+.new-single-container{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  background-color: lightgrey;
+}
+
+.single {
+  width: 100%;
+  max-width: 900px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.coverart {
+  width: 50%;
+  max-width: 400px;
+}
+
+.coverart img {
+  width: 100%;
+}
+
+.single-caption{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.single-caption h2 {
+  padding-bottom: 1em;
+}
+
+.listen-now {
+  width: 65%;
+  align-self: center;
+}
