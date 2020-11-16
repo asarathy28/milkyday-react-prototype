@@ -1,3 +1,7 @@
+# half finish react version of milky day's site. not the actual repo for his site.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
