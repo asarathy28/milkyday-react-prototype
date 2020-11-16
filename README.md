@@ -1,4 +1,4 @@
-# half finish react version of milky day's site. not the actual repo for his site.
+# half finished react version of milky day's site. not the actual repo for his site.
 
 
 
